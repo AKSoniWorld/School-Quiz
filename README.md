@@ -14,3 +14,4 @@
 
 127.0.0.1:8000/register/teacher
 
+and rest all are mentioned in urls.py
